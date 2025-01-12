@@ -20,7 +20,7 @@
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/commit-ai.git
+   git clone https://github.com/DevGabrielSouza/commit-ai.git
    cd commit-ai
    ```
 
